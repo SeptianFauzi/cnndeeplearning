@@ -1,6 +1,8 @@
 # cnndeeplearning
-kodingan aplikasi klasifikasi ikan air tawar
-
+kodingan aplikasi klasifikasi ikan air tawar menggunakan metode CNN 
+Nama : Septian Fauzi
+Jurusan : Teknik Informatika Angkatan 2015
+NPM : 151105151027
 
 Requirement software
 - Python 3.5 (minimum)
