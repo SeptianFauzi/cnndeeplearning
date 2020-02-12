@@ -19,7 +19,8 @@ Modul Python :
 -pandas-ml
 -scikit-learn
 -argparse
-
+ download model pada link
+ https://drive.google.com/drive/folders/1AbBYQf15KZ9CvXIUD_sPbGHf-YW8YfAI?usp=sharing
 
 Cara menejalankan aplikasi :
 1. Mengklasifikasi model CNN yang telah jadi
